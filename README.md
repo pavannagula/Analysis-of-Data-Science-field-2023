@@ -1,4 +1,4 @@
-# Analysis on "Is Data Science a Dying Field in 2023" by scrapping the LinkedIn job postings
+# Analysis on "Is Data Science a Dying Field" by scrapping the latest 2023 LinkedIn job postings
 
 ## Introduction
 
