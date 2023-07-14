@@ -4,7 +4,7 @@
 
 This project aims to analyze the job market in the data science field to gain valuable insights into its growth, demand, and key trends. By leveraging web scraping techniques to collect job postings from LinkedIn and performing extensive exploratory data analysis (EDA), I have delved into various aspects of the data science job market. My analysis covers job titles, industries, required skills, salaries, educational requirements, and more, all with the goal of understanding the evolving landscape of the data science industry in 2023.
 
-Highlights of our project:
+Highlights of the project:
 
 - Data Collection: I've scrapped a comprehensive dataset of 2500 AI family job postings from LinkedIn, ensuring a diverse range of data science positions and capturing a snapshot of the current job market.
 
@@ -74,7 +74,7 @@ Insights: The IT Services and Consulting industries emerged as the dominant play
 
 ## Salary Analysis
 
-Through the analysis of the salary distribution in the data science job market, I've gained valuable insights into the earning potential in this field. Our findings indicate that the majority of data science job salaries are distributed between the $100,000 to $200,000 range.
+Through the analysis of the salary distribution in the data science job market, I've gained valuable insights into the earning potential in this field. The findings indicate that the majority of data science job salaries are distributed between the $100,000 to $200,000 range.
 
 ![image](https://github.com/pavannagula/Analysis-on-Is-Data-Science-a-Dying-field-in-2023-by-scrapping-Linkedin-Data-Science-related-jobs/assets/39379433/a9945cbf-4834-45d9-9be7-197370a22d4a)
 
