@@ -1,12 +1,12 @@
-# Analysis on "Is Data Science a Dying Field" by scrapping the latest 2023 LinkedIn job postings
+# Analysis on "Is Data Science a Dying Field" using the latest 2023 US Data Science job postings
 
 ## Introduction
 
-This project aims to analyze the job market in the data science field to gain valuable insights into its growth, demand, and key trends. By leveraging web scraping techniques to collect job postings from LinkedIn and performing extensive exploratory data analysis (EDA), I have delved into various aspects of the data science job market. My analysis covers job titles, industries, required skills, salaries, educational requirements, and more, all with the goal of understanding the evolving landscape of the data science industry in 2023.
+This project aims to analyze the job market in the data science field to gain valuable insights into its growth, demand, and key trends. By using various Data cleaning and EDA methods, I have delved into various aspects of the data science job market. My analysis covers job titles, industries, required skills, salaries, educational requirements, and more, all with the goal of understanding the evolving landscape of the US data science industry in 2023.
 
 Highlights of the project:
 
-- Data Collection: I've scrapped a comprehensive dataset of 2500 AI family job postings from LinkedIn, ensuring a diverse range of data science positions and capturing a snapshot of the current job market.
+- Data Collection: I've used a comprehensive dataset of 2500 AI family job postings, ensuring a diverse range of data science positions and capturing a snapshot of the current job market.
 
 - Exploratory Data Analysis (EDA): Through detailed EDA, I explored the distribution of job titles, industries, and the skills and educational qualifications sought by employers. I utilized visualizations to uncover insights into the growth, demand, and key trends within the data science field.
 
@@ -14,17 +14,17 @@ Highlights of the project:
 
 - Salary Analysis: Examined salary distributions within the data science field, revealing a concentration of salaries between $100,000 and $200,000. This highlights the industry's recognition of the value and expertise that data scientists bring, resulting in competitive compensation packages.
 
-By combining web scraping, EDA techniques, and visualization tools, this project provides unique insights into the data science job market, showcasing its growth, demand, and emerging trends. These findings empower job seekers, professionals, and organizations with valuable knowledge to make informed decisions and navigate the evolving landscape of the data science industry.
+By combining Data Cleaning, EDA techniques, and visualization tools, this project provides unique insights into the data science job market, showcasing its growth, demand, and emerging trends. These findings empower job seekers, professionals, and organizations with valuable knowledge to make informed decisions and navigate the evolving landscape of the data science industry.
 
 ## Project Structure
-- `data_collection`: web scraping job postings from LinkedIn using the Octoparse parsing tool.
+- `data_collection`: job posting dataset from Kaggle.
 - `Data_Cleaning_Linkedin_Jobs.ipynb`: Covers data cleaning, preprocessing, and feature engineering steps.
 - `JD_Skills_Extraction.ipynb`: Implemented Natural Language processing methods like spaCy for extracting skills and educational requirements from the job description.
 - `EDA_Linkedin.ipynb`: Conducts in-depth exploratory analysis and generates visualizations.
 - `README.md`: Front page of the repository, providing an overview of the project.
 
 ## Data Collection and Preprocessing
-I have collected job postings from LinkedIn using a web scraping tool, focusing on the AI family of job roles. The data cleaning process involved handling missing values, standardizing data formats, and extracting relevant features such as job titles, company information, seniority levels, and employment types.
+I have collected the job posting dataset Kaggle, focusing on the AI family of job roles. The data cleaning process involved handling missing values, standardizing data formats, and extracting relevant features such as job titles, company information, seniority levels, and employment types.
 
 ## Feature Extraction using NLP
 Leveraged the power of natural language processing (NLP) and the spaCy library to extract valuable skills and education information from the job descriptions. This allowed me to gain deeper insights into the specific requirements and qualifications sought by employers in the data science field.
