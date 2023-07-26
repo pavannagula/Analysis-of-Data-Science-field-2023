@@ -1,4 +1,4 @@
-# Analysis on "Is Data Science a Dying Field" using the latest 2023 US Data Science job postings
+# Analysis of "Data Science Field" using the latest 2023 US Data Science job postings
 
 ## Introduction
 
